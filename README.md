@@ -26,6 +26,10 @@ Recieve a Share from another app. [Share-Receive-Example](https://github.com/And
 A turnkey full screen camera for photo, video (with audio), or data analysis.
 Provides access to both cameras. Implements rotation, pinch zoom, and tap for focus/exposure. Dismiss with back gesture or back button. [CameraXF-Example](https://github.com/Android-for-Python/CameraXF-Example).
 
+## Face-Detect-Example
+
+See your invisible friend in the mirror. An example of using Google MLKit with CameraXF. [Face-Detect-Example](https://github.com/Android-for-Python/Face-Detect-Example)
+
 ## Webview-Example
 
 Accepts https:// and file:// urls. Full screen, dismiss with back gesture or back button. [Webview-Example](https://github.com/Android-for-Python/Webview-Example).
