@@ -1,9 +1,9 @@
 Android-for-Python
 ==================
 
-*Examples of Android ONLY Kivy-Python widgets.*
+*Examples of Android ONLY Kivy.*
 
-Each directory contains a stand alone runnable example. Required modifications to buildozer.spec are documented. Download all the examples from the Code button on this page.
+Each directory contains a stand alone runnable example. Required modifications to buildozer.spec are documented.
 
 ## Android-for-Python-Users
 
