@@ -7,42 +7,32 @@ Each directory contains a stand alone runnable example. Required modifications t
 
 ## Android-for-Python-Users
 
-An unofficial [Users' Guide](https://github.com/RobertFlatt/Android-for-Python/tree/main/Android-for-Python-Users).
+An unofficial [Users' Guide](https://github.com/Android-for-Python/Android-for-Python-Users).
 
-## Storage
+## Storage-Example
 
-How to use Android Shared Storage for api >= 21
-Source directory [storage](https://github.com/RobertFlatt/Android-for-Python/tree/main/storage).
+How to use Shared Storage on Android 10 and above devices. [Storage-Example](https://github.com/Android-for-Python/Storage-Example).
 
-## Send a Share
+## Share-Send-Example
 
-Share a file or plain text with another app
-Source directory [share_snd](https://github.com/RobertFlatt/Android-for-Python/tree/main/share_snd).
+Share a file or plain text with another app. [Share-Send-Example](https://github.com/Android-for-Python/Share-Send-Example).
 
-## Receive a Share
+## Share-Receive-Example
 
-Recieve a Share from another app. 
-Source directory [share_rcv](https://github.com/RobertFlatt/Android-for-Python/tree/main/share_rcv).
+Recieve a Share from another app. [Share-Receive-Example](https://github.com/Android-for-Python/Share-Receive-Example).
 
-## Embedded Camera - CameraXF
+## CameraXF-Example
 
 A turnkey full screen camera for photo, video (with audio), or data analysis.
-Provides access to both cameras.
-Implements rotation, pinch zoom, and tap for focus/exposure.
-Dismiss with back gesture or back button.
-Source directory and more info [cameraxf](https://github.com/RobertFlatt/Android-for-Python/tree/main/cameraxf).
+Provides access to both cameras. Implements rotation, pinch zoom, and tap for focus/exposure. Dismiss with back gesture or back button. [CameraXF-Example](https://github.com/Android-for-Python/CameraXF-Example).
 
-## Embedded web viewer
+## Webview-Example
 
-Accepts https:// and file:// urls.
-Full screen, dismiss with back gesture or back button.
-Source directory [webview](https://github.com/RobertFlatt/Android-for-Python/tree/main/webview).
+Accepts https:// and file:// urls. Full screen, dismiss with back gesture or back button. [Webview-Example](https://github.com/Android-for-Python/Webview-Example).
 
-## Embedded PDF viewer
+## PDFview-Example
 
-Accepts .pdf files.
-Full screen, dismiss with back gesture or back button.
-Source directory [pdfview](https://github.com/RobertFlatt/Android-for-Python/tree/main/pdfview)
+Accepts .pdf files. Full screen, dismiss with back gesture or back button. [PDFview-Example](https://github.com/Android-for-Python/PDFview-Example)
 
 
 
