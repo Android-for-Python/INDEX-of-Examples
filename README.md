@@ -9,6 +9,14 @@ Each directory contains a stand alone runnable example. Required modifications t
 
 An unofficial Users' Guide.
 
+### [Multi-Service-Example](https://github.com/Android-for-Python/Multi-Service-Example)
+
+Schedule tasks on one or more Android services, foreground or background.
+
+### [Common-Gestures-Example](https://github.com/Android-for-Python/Common-Gestures-Example)
+
+Pan, zoom, long press, and friends.
+
 ### [Storage-Example](https://github.com/Android-for-Python/Storage-Example)
 
 How to use Shared Storage on Android 10 and above devices.
@@ -38,9 +46,6 @@ Accepts https:// and file:// urls. Full screen, dismiss with back gesture or bac
 
 Accepts .pdf files. Full screen, dismiss with back gesture or back button.
 
-### [Common-Gestures-Example](https://github.com/Android-for-Python/Common-Gestures-Example)
-
-Pan, zoom, long press and friends.
 
 
 
