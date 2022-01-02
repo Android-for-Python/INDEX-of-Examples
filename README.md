@@ -15,7 +15,7 @@ A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widge
 
 ### [c4k_qr_example](https://github.com/Android-for-Python/c4k_qr_example)
 
-A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widget example. Everything you need to read a restaurant menu. Long press or double click on a highlighted QR code to open a webrowser. Illustrates basic analysis, screen annotation, and user interaction.
+A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widget example. Everything you need to read a restaurant menu. Long press or double click on a highlighted QR code to open a web browser. Illustrates basic analysis, screen annotation, and user interaction.
 
 ### [c4k_opencv_example](https://github.com/Android-for-Python/c4k_opencv_example)
 
