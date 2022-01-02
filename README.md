@@ -1,13 +1,33 @@
 Android-for-Python
 ==================
 
-*Examples of Android ONLY Kivy.*
+*Kivy Examples that can build for Android.*
 
-Each directory contains a stand alone runnable example. Required modifications to buildozer.spec are documented.
+Each directory contains a stand alone runnable example. A buildozer.spec is included or the required modifications to buildozer.spec are documented.
 
 ### [Android-for-Python-Users](https://github.com/Android-for-Python/Android-for-Python-Users)
 
 An unofficial Users' Guide.
+
+### [c4k_photo_example](https://github.com/Android-for-Python/c4k_photo_example)
+
+A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widget example. Illustrates basic layout orientation, aspect ratio, and letterbox handling, on multiple screens. Basic camera functionality including photo capture, screenshot capture, and on Android capture of video with audio. 
+
+### [c4k_qr_example](https://github.com/Android-for-Python/c4k_qr_example)
+
+A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widget example. Everything you need to read a restaurant menu. Long press or double click on a highlighted QR code to open a webrowser. Illustrates basic analysis, screen annotation, and user interaction.
+
+### [c4k_opencv_example](https://github.com/Android-for-Python/c4k_opencv_example)
+
+A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widget example. Edge detect the video stream. Illustrates using OpenCV analysis and replacing the original preview with the transformed image.
+
+### [c4k_mlkit_example](https://github.com/Android-for-Python/c4k_mlkit_example)
+
+A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widget example. Face detect, MLKit is Android only. Illustrates using the ImageProxy api.
+
+### [c4k_tflite_example](https://github.com/Android-for-Python/c4k_tflite_example)
+
+A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widget example. Object classification. Illustrates using a large Tensorflow Lite model, and writing text to the Preview image. Does not (yet?) run on Android.
 
 ### [Multi-Service-Example](https://github.com/Android-for-Python/Multi-Service-Example)
 
@@ -28,15 +48,6 @@ Share a file or plain text with another app.
 ### [Share-Receive-Example](https://github.com/Android-for-Python/Share-Receive-Example)
 
 Recieve a Share from another app. 
-
-### [CameraXF-Example](https://github.com/Android-for-Python/CameraXF-Example)
-
-A turnkey full screen camera for photo, video (with audio), or data analysis.
-Provides access to both cameras. Implements rotation, pinch zoom, and tap for focus/exposure. Dismiss with back gesture or back button. 
-
-### [Face-Detect-Example](https://github.com/Android-for-Python/Face-Detect-Example)
-
-See your invisible friend in the mirror. An example of using Google MLKit with CameraXF. 
 
 ### [Webview-Example](https://github.com/Android-for-Python/Webview-Example)
 
