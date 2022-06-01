@@ -37,17 +37,17 @@ Schedule tasks on one or more Android services, foreground or background.
 
 Pan, zoom, long press, and friends.
 
-### [Storage-Example](https://github.com/Android-for-Python/Storage-Example)
+### [shared_storage_example](https://github.com/Android-for-Python/shared_storage_example)
 
-How to use Shared Storage on Android 10 and above devices.
+Copy to and from shared storage on Android 5 and above devices, using [androidstorage4kivy](https://github.com/Android-for-Python/androidstorage4kivy).
 
-### [Share-Send-Example](https://github.com/Android-for-Python/Share-Send-Example).
+### [share_send_example](https://github.com/Android-for-Python/share_send_example).
 
-Share a file or plain text with another app. 
+Share a file or plain text with another app, using [androidstorage4kivy](https://github.com/Android-for-Python/androidstorage4kivy). 
 
-### [Share-Receive-Example](https://github.com/Android-for-Python/Share-Receive-Example)
+### [share_receive_example](https://github.com/Android-for-Python/share_receive_xxample)
 
-Recieve a Share from another app. 
+Recieve a Share from another app, using [androidstorage4kivy](https://github.com/Android-for-Python/androidstorage4kivy).
 
 ### [Webview-Example](https://github.com/Android-for-Python/Webview-Example)
 
