@@ -45,7 +45,7 @@ Copy to and from shared storage on Android 5 and above devices, using [androidst
 
 Share a file or plain text with another app, using [androidstorage4kivy](https://github.com/Android-for-Python/androidstorage4kivy). 
 
-### [share_receive_example](https://github.com/Android-for-Python/share_receive_xxample)
+### [share_receive_example](https://github.com/Android-for-Python/share_receive_example)
 
 Recieve a Share from another app, using [androidstorage4kivy](https://github.com/Android-for-Python/androidstorage4kivy).
 
