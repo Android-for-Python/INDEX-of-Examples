@@ -3,6 +3,10 @@ Android-for-Python
 
 *Kivy Examples that can build for Android.*
 
+**Example**, *noun*
+ - one that serves as a pattern to be imitated or not to be imitated
+ - a parallel or closely similar case especially when serving as a precedent or model
+
 Each directory contains a stand alone runnable example. A buildozer.spec is included or the required modifications to buildozer.spec are documented.
 
 ### [Android-for-Python-Users](https://github.com/Android-for-Python/Android-for-Python-Users)
