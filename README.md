@@ -1,17 +1,27 @@
 Android-for-Python
 ==================
 
-*Kivy Examples that can build for Android.*
+*Kivy Examples that will build for Android.*
 
 **Example**, *noun*
  - one that serves as a pattern to be imitated or not to be imitated
  - a parallel or closely similar case especially when serving as a precedent or model
 
-Each directory contains a stand alone runnable example. A buildozer.spec is included or the required modifications to buildozer.spec are documented.
+Each repository (other than the Users Guide) contains a stand alone runnable example. All examples run on Android, most on a desktop, and a few on iOS.
+
+A buildozer.spec is included or the required modifications to buildozer.spec are documented.
 
 ### [Android-for-Python-Users](https://github.com/Android-for-Python/Android-for-Python-Users)
 
 An unofficial Users' Guide.
+
+### [cloud_storage_examples](https://github.com/Android-for-Python/cloud_storage_examples)
+
+ - [Firestore Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/rest_firestore_example), it depends on [firestore4kivy](https://github.com/Android-for-Python/firestore4kivy). Runs on desktop, Android, and iOS.
+ 
+ - [Pyrebase4 Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/pyrebase4_example), it depends on [Pyrebase](https://github.com/thisbejim/Pyrebase). Runs on desktop, and Android.
+
+ - [Firebase-admin Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/firebase_admin_example), it depends on [firebase-admin](https://firebase.google.com/docs/admin/setup/). Firebase-admin is a security risk if available to un-trusted users. Runs on desktop, and Android.
 
 ### [c4k_photo_example](https://github.com/Android-for-Python/c4k_photo_example)
 
