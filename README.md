@@ -19,7 +19,7 @@ An unofficial Users' Guide.
 
  - [Firestore Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/rest_firestore_example), it depends on [firestore4kivy](https://github.com/Android-for-Python/firestore4kivy). Runs on desktop, Android, and iOS.
  
- - [Pyrebase4 Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/pyrebase4_example), it depends on [Pyrebase](https://github.com/thisbejim/Pyrebase). Runs on desktop, and Android.
+ - [Pyrebase4 Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/pyrebase4_example), it depends on [Pyrebase4](https://github.com/nhorvath/Pyrebase4). Runs on desktop, and Android.
 
  - [Firebase-admin Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/firebase_admin_example), it depends on [firebase-admin](https://firebase.google.com/docs/admin/setup/). Firebase-admin is a security risk if available to un-trusted users. Runs on desktop, and Android.
 
