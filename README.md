@@ -27,9 +27,9 @@ An unofficial Users' Guide.
 
 Android *only* examples of using the Python class `android.broadcast.BroadcastReceiver`.
 
- - [WiFi_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/WiFi_scanner_example)
+ - [WiFi_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/tree/main/WiFi_scanner_example)
 
- - [Bluetooth_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/Bluetooth_scanner_example)
+ - [Bluetooth_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/tree/main/Bluetooth_scanner_example)
 
 ### [c4k_photo_example](https://github.com/Android-for-Python/c4k_photo_example)
 
