@@ -23,6 +23,14 @@ An unofficial Users' Guide.
 
  - [Firebase-admin Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/firebase_admin_example), it depends on [firebase-admin](https://firebase.google.com/docs/admin/setup/). Firebase-admin is a security risk if available to un-trusted users. Runs on desktop, and Android.
 
+### [BroadcastReceiver_examples](https://github.com/Android-for-Python/BroadcastReceiver_examples)
+
+Android *only* examples of using the Python class `android.broadcast.BroadcastReceiver`.
+
+ - [WiFi_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/WiFi_scanner_example)
+
+ - [Bluetooth_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/Bluetooth_scanner_example)
+
 ### [c4k_photo_example](https://github.com/Android-for-Python/c4k_photo_example)
 
 A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widget example. Illustrates basic layout orientation, aspect ratio, and letterbox handling, on multiple screens. Basic camera functionality including photo capture, screenshot capture, and on Android capture of video with audio. 
