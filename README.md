@@ -23,11 +23,9 @@ An unofficial Users' Guide.
  
 #### [Pyrebase4 Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/pyrebase4_example), it depends on [Pyrebase4](https://github.com/nhorvath/Pyrebase4). Runs on desktop, and Android.
 
-####[Firebase-admin Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/firebase_admin_example), it depends on [firebase-admin](https://firebase.google.com/docs/admin/setup/). Firebase-admin is a security risk if available to un-trusted users. Runs on desktop, and Android.
+#### [Firebase-admin Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/firebase_admin_example), it depends on [firebase-admin](https://firebase.google.com/docs/admin/setup/). Firebase-admin is a security risk if available to un-trusted users. Runs on desktop, and Android.
 
 ### BroadcastReceiver Examples
-
-Android *only* examples of using the Python class `android.broadcast.BroadcastReceiver`.
 
 #### [Overview](https://github.com/Android-for-Python/BroadcastReceiver_examples)
 
@@ -37,7 +35,9 @@ Android *only* examples of using the Python class `android.broadcast.BroadcastRe
 
 ### Speech Examples
 
-#### [speech_recognizer_example]()
+#### [speech_recognizer_example](https://github.com/Android-for-Python/speech_recognizer_example)
+
+Transcribe and copy to clipboard.
 
 ### Camera Examples
 
