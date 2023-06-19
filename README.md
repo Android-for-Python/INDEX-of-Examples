@@ -19,11 +19,17 @@ An unofficial Users' Guide.
 
 [Overview](https://github.com/Android-for-Python/cloud_storage_examples)
 
-#### [Firestore Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/rest_firestore_example), it depends on [firestore4kivy](https://github.com/Android-for-Python/firestore4kivy). Runs on desktop, Android, and iOS.
- 
-#### [Pyrebase4 Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/pyrebase4_example), it depends on [Pyrebase4](https://github.com/nhorvath/Pyrebase4). Runs on desktop, and Android.
+#### [Firestore Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/rest_firestore_example)
 
-#### [Firebase-admin Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/firebase_admin_example), it depends on [firebase-admin](https://firebase.google.com/docs/admin/setup/). Firebase-admin is a security risk if available to un-trusted users. Runs on desktop, and Android.
+Depends on [firestore4kivy](https://github.com/Android-for-Python/firestore4kivy). Runs on desktop, Android, and iOS.
+ 
+#### [Pyrebase4 Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/pyrebase4_example)
+
+Depends on [Pyrebase4](https://github.com/nhorvath/Pyrebase4). Runs on desktop, and Android.
+
+#### [Firebase-admin Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/firebase_admin_example)
+
+Depends on [firebase-admin](https://firebase.google.com/docs/admin/setup/). Firebase-admin is a security risk if available to un-trusted users. Runs on desktop, and Android.
 
 ### BroadcastReceiver Examples
 
@@ -33,7 +39,7 @@ An unofficial Users' Guide.
 
 #### [Bluetooth_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/tree/main/Bluetooth_scanner_example)
 
-### Speech Examples
+### Speech Example
 
 #### [speech_recognizer_example](https://github.com/Android-for-Python/speech_recognizer_example)
 
