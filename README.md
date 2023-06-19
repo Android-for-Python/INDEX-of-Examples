@@ -15,21 +15,29 @@ A buildozer.spec is included or the required modifications to buildozer.spec are
 
 An unofficial Users' Guide.
 
-### [cloud_storage_examples](https://github.com/Android-for-Python/cloud_storage_examples)
+### Cloud Storage Examples
 
- - [Firestore Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/rest_firestore_example), it depends on [firestore4kivy](https://github.com/Android-for-Python/firestore4kivy). Runs on desktop, Android, and iOS.
+[Overview](https://github.com/Android-for-Python/cloud_storage_examples)
+
+#### [Firestore Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/rest_firestore_example), it depends on [firestore4kivy](https://github.com/Android-for-Python/firestore4kivy). Runs on desktop, Android, and iOS.
  
- - [Pyrebase4 Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/pyrebase4_example), it depends on [Pyrebase4](https://github.com/nhorvath/Pyrebase4). Runs on desktop, and Android.
+#### [Pyrebase4 Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/pyrebase4_example), it depends on [Pyrebase4](https://github.com/nhorvath/Pyrebase4). Runs on desktop, and Android.
 
- - [Firebase-admin Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/firebase_admin_example), it depends on [firebase-admin](https://firebase.google.com/docs/admin/setup/). Firebase-admin is a security risk if available to un-trusted users. Runs on desktop, and Android.
+####[Firebase-admin Example](https://github.com/Android-for-Python/cloud_storage_examples/tree/main/firebase_admin_example), it depends on [firebase-admin](https://firebase.google.com/docs/admin/setup/). Firebase-admin is a security risk if available to un-trusted users. Runs on desktop, and Android.
 
-### [BroadcastReceiver_examples](https://github.com/Android-for-Python/BroadcastReceiver_examples)
+### BroadcastReceiver Examples
 
 Android *only* examples of using the Python class `android.broadcast.BroadcastReceiver`.
 
- - [WiFi_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/tree/main/WiFi_scanner_example)
+#### [Overview](https://github.com/Android-for-Python/BroadcastReceiver_examples)
 
- - [Bluetooth_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/tree/main/Bluetooth_scanner_example)
+#### [WiFi_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/tree/main/WiFi_scanner_example)
+
+#### [Bluetooth_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/tree/main/Bluetooth_scanner_example)
+
+### Speech Examples
+
+#### [speech_recognizer_example]()
 
 ### Camera Examples
 
@@ -53,11 +61,15 @@ A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widge
 
 A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widget example. Object classification. Illustrates using a large Tensorflow Lite model, and writing text to the Preview image. Does not (yet?) run on Android.
 
-### [Multi-Service-Example](https://github.com/Android-for-Python/Multi-Service-Example)
+### Service Example
+
+#### [Multi-Service-Example](https://github.com/Android-for-Python/Multi-Service-Example)
 
 Schedule tasks on one or more Android services, foreground or background.
 
-### [Common-Gestures-Example](https://github.com/Android-for-Python/Common-Gestures-Example)
+### Common Getsures Example
+
+#### [Common-Gestures-Example](https://github.com/Android-for-Python/Common-Gestures-Example)
 
 Pan, zoom, long press, and friends.
 
