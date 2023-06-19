@@ -77,7 +77,7 @@ Schedule tasks on one or more Android services, foreground or background.
 
 #### [Common-Gestures-Example](https://github.com/Android-for-Python/Common-Gestures-Example)
 
-Pan, zoom, long press, and friends.
+Pan, zoom, long press, and friends. Using [gestures4kivy](https://github.com/Android-for-Python/gestures4kivy).
 
 ### Shared Storage Examples
 
