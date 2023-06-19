@@ -33,7 +33,7 @@ Depends on [firebase-admin](https://firebase.google.com/docs/admin/setup/). Fire
 
 ### BroadcastReceiver Examples
 
-#### [Overview](https://github.com/Android-for-Python/BroadcastReceiver_examples)
+[Overview](https://github.com/Android-for-Python/BroadcastReceiver_examples)
 
 #### [WiFi_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/tree/main/WiFi_scanner_example)
 
