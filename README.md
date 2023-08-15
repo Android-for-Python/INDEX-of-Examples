@@ -39,11 +39,15 @@ Depends on [firebase-admin](https://firebase.google.com/docs/admin/setup/). Fire
 
 #### [Bluetooth_scanner_example](https://github.com/Android-for-Python/BroadcastReceiver_examples/tree/main/Bluetooth_scanner_example)
 
-### Speech Example
+### Speech Examples
 
 #### [speech_recognizer_example](https://github.com/Android-for-Python/speech_recognizer_example)
 
 Transcribe and copy to clipboard.
+
+#### [record_audio_example](https://github.com/Android-for-Python/record_audio_example)
+
+Record from microphone and play back.
 
 ### Camera Examples
 
