@@ -71,7 +71,11 @@ A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widge
 
 A [Camera4Kivy](https://github.com/Android-for-Python/Camera4Kivy) Preview widget example. Object classification. Illustrates using a large Tensorflow Lite model, and writing text to the Preview image. Does not (yet?) run on Android.
 
-### Service Example
+### Service Examples
+
+#### [Music Service Example](https://github.com/Android-for-Python/music_service_example)
+
+A persistent ("sticky foreground") stateful service, it also queries the Mediastore.
 
 #### [Multi-Service-Example](https://github.com/Android-for-Python/Multi-Service-Example)
 
