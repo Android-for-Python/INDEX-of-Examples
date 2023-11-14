@@ -3,6 +3,8 @@ Android-for-Python
 
 *Kivy Examples that will build for Android.*
 
+**2023-11-13 This repository is archived.**
+
 ### **Example**, *noun*
  - one that serves as a pattern to be imitated or not to be imitated
  - a parallel or closely similar case especially when serving as a precedent or model
